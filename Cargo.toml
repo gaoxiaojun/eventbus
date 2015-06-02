@@ -1,0 +1,4 @@
+[package]
+name = "eventbus"
+version = "0.1.0"
+authors = ["gaoxiaojun <gaoxiaojun@gmail.com>"]
